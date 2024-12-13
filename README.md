@@ -1,6 +1,4 @@
-Certainly! Below is a detailed README file for your GitHub repository, covering the code you provided and its usage.
 
----
 
 # Chatbot Using nlkt 
 
@@ -195,5 +193,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All contributors and developers of open-source libraries.
 
 ---
-
-This README should serve as a helpful guide to using and understanding the Triplo Chatbot.
